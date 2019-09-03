@@ -1,2 +1,2 @@
 # LoopLab
-### A social website landing page.
+### A fully responsive social website landing page.
